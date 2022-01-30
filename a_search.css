@@ -1,11 +1,14 @@
 .container{
     margin : 0 40px;
 }
-body{
+
+body
+{
     color:rgb(39, 38, 38)
 }
 
-h4{
+h4
+{
     color: #d93025;
     text-indent: 45px;
     font-weight: 200;
@@ -13,46 +16,55 @@ h4{
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
 }
-hr{
+hr
+{
    color: rgb(173, 173, 173) 
 }
-h5{
+h5
+{
     font-size:15px !important ;
     font-weight: 500;
     color: gray;
-
 }
-.main-header{
+.main-header
+{
     grid-column-start: 1;
     grid-column-end: 3;
 }
-.grid{
+.grid
+{
     display: grid;
     grid-template-columns: 200px 700px auto;
     column-gap: 10px;
     row-gap:10px;
     margin-left: 40px !important;
 }
-label{
+
+label
+{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
 }
-.second-label{
+.second-label
+{
     font-size:11px;
     color:rgb(85, 85, 85)
 }
-.inp{
+.inp
+{
     width: 100%;
 }
-.num-inp{
+.num-inp
+{
     width: 41.5%;
 }
-.heading{
+.heading
+{
     grid-column-start: 1;
     grid-column-end: 4;
 }
-button[type="submit"]{
-    
+button[type="submit"]
+{    
     padding:7px;
     border-radius: 5px;
     line-height: 100%;
@@ -61,7 +73,8 @@ button[type="submit"]{
     margin-bottom: 10px;
     height: 30px;
 }
-.img{
+.img
+{
     height: 24px;
     margin-top:23px;
     margin-left: 20px;
