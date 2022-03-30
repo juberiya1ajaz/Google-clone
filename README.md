@@ -1,3 +1,3 @@
 # Google-clone
-Google Front-end clone made with the help of CSS . HTML and BootStrap.
+Google Front-end clone made with the help of CSS , HTML and BootStrap.
 
